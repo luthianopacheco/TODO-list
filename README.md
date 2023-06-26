@@ -1,16 +1,6 @@
-# app_lista
+Meu segundo app criado em flutter como atividade do curso Lovepeople.
 
-A new Flutter project.
+![Android Emulator - Pixel_2_API_31_5554 26_06_2023 18_16_34](https://github.com/luthianopacheco/TODO-list/assets/131195495/8cc2df47-e14b-4cac-8e04-00abf501cd56)
+![Android Emulator - Pixel_2_API_31_5554 26_06_2023 18_16_14](https://github.com/luthianopacheco/TODO-list/assets/131195495/7b300539-f314-45b4-881d-d509922ee9b8)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Criado em base de tela do Pixel 2 API 31 emulado pelo Android Studio.
